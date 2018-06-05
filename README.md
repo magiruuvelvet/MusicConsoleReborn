@@ -7,3 +7,7 @@ A simple console app which organizes all of your media files for fast and easy a
 **PROJECT HAS BEEN MOVED TO GITLAB!**
 
 [https://gitlab.com/magiruuvelvet/MusicConsoleReborn](https://gitlab.com/magiruuvelvet/MusicConsoleReborn)
+
+<br>
+
+![Moved to GitLab](movingtogitlab.png)
